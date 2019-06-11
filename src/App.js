@@ -7,7 +7,7 @@ import React from 'react';
 
 function App() {
   return (
-    <Router>
+    <Router basename="https://github.com/ghlilit/lars-tornoe">
         <div className="app-wrapper">
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
