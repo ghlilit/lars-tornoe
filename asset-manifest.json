@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ghlilit/lars-tornoe/static/css/main.5d6ec9cc.chunk.css",
+    "main.js": "/ghlilit/lars-tornoe/static/js/main.3e38e885.chunk.js",
+    "main.js.map": "/ghlilit/lars-tornoe/static/js/main.3e38e885.chunk.js.map",
+    "runtime~main.js": "/ghlilit/lars-tornoe/static/js/runtime~main.2c9f4b3b.js",
+    "runtime~main.js.map": "/ghlilit/lars-tornoe/static/js/runtime~main.2c9f4b3b.js.map",
+    "static/js/2.a9d30fdd.chunk.js": "/ghlilit/lars-tornoe/static/js/2.a9d30fdd.chunk.js",
+    "static/js/2.a9d30fdd.chunk.js.map": "/ghlilit/lars-tornoe/static/js/2.a9d30fdd.chunk.js.map",
+    "index.html": "/ghlilit/lars-tornoe/index.html",
+    "precache-manifest.ac459b459f565120bdb5f174c22b6604.js": "/ghlilit/lars-tornoe/precache-manifest.ac459b459f565120bdb5f174c22b6604.js",
+    "service-worker.js": "/ghlilit/lars-tornoe/service-worker.js",
+    "static/css/main.5d6ec9cc.chunk.css.map": "/ghlilit/lars-tornoe/static/css/main.5d6ec9cc.chunk.css.map",
+    "static/media/news12.jpg": "/ghlilit/lars-tornoe/static/media/news12.56f66ac3.jpg",
+    "static/media/news13.jpg": "/ghlilit/lars-tornoe/static/media/news13.34f597e2.jpg",
+    "static/media/news15.jpg": "/ghlilit/lars-tornoe/static/media/news15.89b01601.jpg",
+    "static/media/news16.jpg": "/ghlilit/lars-tornoe/static/media/news16.22a77320.jpg",
+    "static/media/news17.jpg": "/ghlilit/lars-tornoe/static/media/news17.fc9dc00e.jpg",
+    "static/media/news3.jpg": "/ghlilit/lars-tornoe/static/media/news3.b22e6dbe.jpg",
+    "static/media/news4.jpg": "/ghlilit/lars-tornoe/static/media/news4.ef23a270.jpg",
+    "static/media/news6.jpg": "/ghlilit/lars-tornoe/static/media/news6.33723cf3.jpg",
+    "static/media/news8.jpg": "/ghlilit/lars-tornoe/static/media/news8.31fd81dd.jpg",
+    "static/media/news9.jpg": "/ghlilit/lars-tornoe/static/media/news9.169a17ab.jpg",
+    "static/media/tornoe.jpg": "/ghlilit/lars-tornoe/static/media/tornoe.d9f95d57.jpg"
+  }
+}
