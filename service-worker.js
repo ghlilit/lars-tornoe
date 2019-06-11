@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ghlilit/lars-tornoe/precache-manifest.d5e1ac4b6da991c9fabeb7b50f257cd6.js"
+  "/ghlilit/lars-tornoe/precache-manifest.596849b10c09c6f2fa0cf3996046c33b.js"
 );
 
 self.addEventListener('message', (event) => {
