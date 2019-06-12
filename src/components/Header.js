@@ -10,9 +10,9 @@ const Header = () => {
                 Furniture & Product Design
             </div>
             <ul className="header-links">
-                <a href="/">Work</a>
-                <a href="/about">About</a>
-                <a href="/news">News</a>
+                <a href="#/">Work</a>
+                <a href="#/about">About</a>
+                <a href="#/news">News</a>
             </ul>
         </div>
     )

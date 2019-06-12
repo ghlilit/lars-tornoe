@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import About from "./pages/About"
 import Home from "./pages/Home"
 import News from "./pages/News"
@@ -7,7 +7,7 @@ import React from 'react';
 
 function App() {
   return (
-    <Router basename="/lars-tornoe">
+    <Router basename="lars-tornoe">
         <div className="app-wrapper">
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />

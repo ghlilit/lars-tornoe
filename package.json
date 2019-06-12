@@ -2,7 +2,7 @@
   "name": "lars-tornoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ghlilit",
+  "homepage": "https://ghlilit.github.io/lars-tornoe",
   "dependencies": {
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
