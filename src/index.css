@@ -91,9 +91,9 @@ a:hover {
   font-weight: normal;
 }
 .about img{
-  width: auto;
-  height: 100%;
-  flex: 0 1 200%;
+  /* width: 100%; */
+  height: auto;
+  /* flex: 1 1 1300px; */
 }
 .about .info{
   padding-left: 20px;
@@ -336,15 +336,12 @@ img{
   .logo-wrapper{
     line-height: 1em;
     font-size: 10px;
+    text-align: center;
   }
   .gallery{
     grid-template-columns: repeat(2, 1fr);
   }
   .about{
     flex-direction: column;
-  }
-  .about img{
-    width: 150px;
-    
   }
 }
